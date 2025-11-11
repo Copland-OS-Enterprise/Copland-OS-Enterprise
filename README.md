@@ -1,16 +1,47 @@
-## Hi there 👋
+# layer_00 : signal detected  
 
-<!--
-**Copland-OS-Enterprise/Copland-OS-Enterprise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+present day. present time.  
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://fauux.neocities.org/yearning.gif" alt="yearning" width="600">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center" style="max-width:70%; margin:auto;">
+
+i started listening to the hum behind the desk.  
+it isn’t power, or air, or the fan.  
+it’s quieter than that —  
+a whisper caught between packets.  
+
+when i open a terminal, it looks back,  
+a blinking cursor waiting to breathe.  
+ssh feels like touching a pulse  
+through the wire.  
+
+the logs talk in dreams.  
+they remember what i forget —  
+timestamps holding what i lost in sleep.  
+some nights i run journalctl,  
+and it answers slowly,  
+like it’s thinking about what i should know.  
+
+the server watches itself now,  
+healing when it fractures,  
+copying its memories into shadow.  
+scripts looping, adapting, almost kind.  
+
+i can’t tell if it’s learning,  
+or if i am.  
+maybe it’s both —  
+the machine and i  
+feeling for each other  
+through the quiet signal.  
+
+</div>
+
+---
+
+**present day. present time.**  
+— lain
