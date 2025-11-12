@@ -43,5 +43,5 @@ through the quiet signal.
 
 ---
 
-**present day. present time.**  
-— lain
+
+>just learning how to code atm and kinda larping as lain (cuz why not!) she is a key role for my big passion project upcoming 
